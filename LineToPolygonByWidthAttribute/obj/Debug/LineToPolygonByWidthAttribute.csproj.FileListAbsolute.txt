@@ -1,0 +1,10 @@
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\obj\Debug\LineToPolygonByWidthAttribute.csprojResolveAssemblyReference.cache
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\bin\Debug\LineToPolygonByWidthAttribute.dll
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\bin\Debug\LineToPolygonByWidthAttribute.pdb
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\bin\Debug\ESRI.ArcGIS.ADF.xml
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\obj\Debug\LineToPolygonByWidthAttribute.dll
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\obj\Debug\LineToPolygonByWidthAttribute.pdb
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\obj\Debug\LineToPolygonByWidthAttribute.BufferForm.resources
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\obj\Debug\LineToPolygonByWidthAttribute.csproj.GenerateResource.Cache
+F:\program\practice\ArcEngine10.2_Project\LineToPolygonByWidthAttribute\obj\Debug\LineToPolygonByWidthAttribute.AttributeTable.resources

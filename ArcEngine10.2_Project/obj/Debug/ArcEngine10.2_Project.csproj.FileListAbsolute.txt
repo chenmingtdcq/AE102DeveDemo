@@ -1,0 +1,13 @@
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\bin\Debug\ArcEngine10.2_Project.exe.config
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\bin\Debug\ArcEngine10.2_Project.exe
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\bin\Debug\ArcEngine10.2_Project.pdb
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.csprojResolveAssemblyReference.cache
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\obj\Debug\ArcEngine10._2_Project.MainForm.resources
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\obj\Debug\ArcEngine10._2_Project.Properties.Resources.resources
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.csproj.GenerateResource.Cache
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.exe
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.pdb
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\bin\Debug\LineToPolygonByWidthAttribute.dll
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\bin\Debug\LineToPolygonByWidthAttribute.pdb
+F:\program\practice\ArcEngine10.2_Project\ArcEngine10.2_Project\bin\Debug\ESRI.ArcGIS.ADF.xml

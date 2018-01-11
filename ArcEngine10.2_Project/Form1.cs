@@ -12,6 +12,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using LineToPolygonByWidthAttribute;
+using FeatureAttribute;
+using ESRI.ArcGIS.esriSystem;
 
 namespace ArcEngine10._2_Project
 {
@@ -88,6 +90,7 @@ namespace ArcEngine10._2_Project
                     {
                         var m_pMenuLayer = new ToolbarMenu();
                         m_pMenuLayer.AddItem(new BuildLineBuffer(), -1, 0, false, ESRI.ArcGIS.SystemUI.esriCommandStyles.esriCommandStyleTextOnly);
+                        m_pMenuLayer.AddItem(new ShowAttribute(), 1, 1, false, ESRI.ArcGIS.SystemUI.esriCommandStyles.esriCommandStyleTextOnly);
                         m_pMenuLayer.SetHook(axMapControl1);
                         m_pMenuLayer.PopupMenu(e.x, e.y, axTOCControl1.hWnd);
                     }

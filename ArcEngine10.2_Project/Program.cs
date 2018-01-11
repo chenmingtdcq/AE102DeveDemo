@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ESRI.ArcGIS.esriSystem;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -23,6 +24,9 @@ namespace ArcEngine10._2_Project
         public static void BindingProduct()
         {
             ESRI.ArcGIS.RuntimeManager.Bind(ESRI.ArcGIS.ProductCode.EngineOrDesktop);
+            //IAoInitialize aoInitialize = new AoInitializeClass();
+            //esriLicenseStatus licenseSatus = esriLicenseStatus.esriLicenseUnavailable;
+            //licenseSatus = aoInitialize.Initialize(esriLicenseProductCode.esriLicenseProductCodeAdvanced);
         }
 
     }

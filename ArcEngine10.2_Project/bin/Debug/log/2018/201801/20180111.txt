@@ -1,0 +1,1206 @@
+
+ 
+记录时间：2018-01-11 13:02:58,453 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：No spatial reference exists.   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,585 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,626 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,685 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,722 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,783 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,824 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,871 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:58,985 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040239   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,050 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,094 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,151 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,222 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,263 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,303 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,360 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,402 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,461 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,516 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,554 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,716 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,781 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,843 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:02:59,907 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,011 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,055 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,096 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,201 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,268 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,314 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,355 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,480 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,546 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,616 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,682 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,788 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,830 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,874 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:00,935 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,001 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,066 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,109 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,150 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,253 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,325 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,390 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,462 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,573 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,621 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,666 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,734 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,798 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,868 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,918 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:01,964 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,090 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,133 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,180 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,251 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,321 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,433 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,479 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,527 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,599 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,681 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,729 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,778 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:02,829 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:03,754 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:03,833 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:03,921 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:03,988 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,094 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,144 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,189 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,256 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,325 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,401 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,455 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,498 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,644 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,720 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,787 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,866 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:04,991 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,041 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,090 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,180 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,261 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,333 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,386 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,446 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,878 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:05,959 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,049 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,128 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,468 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,518 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,573 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,725 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,805 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,882 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,931 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:06,976 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,127 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,205 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,280 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,356 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,495 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,546 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,598 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,665 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,746 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,814 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,861 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:07,908 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,037 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,107 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,180 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,254 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,375 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,427 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,471 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,539 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:08,670 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,389 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,438 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,482 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,616 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,684 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,758 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,829 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,945 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 
+
+ 
+记录时间：2018-01-11 13:03:09,991 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：LineToPolygonByWidthAttribute.BufferForm property: [(null)] - 
+错误描述：异常来自 HRESULT:0x80040238   在 ESRI.ArcGIS.Geometry.ITopologicalOperator.Buffer(Double distance)
+   在 LineToPolygonByWidthAttribute.BufferForm.BuildBuffer() 位置 f:\code\AE102DeveDemo\LineToPolygonByWidthAttribute\BufferForm.cs:行号 303
+ 

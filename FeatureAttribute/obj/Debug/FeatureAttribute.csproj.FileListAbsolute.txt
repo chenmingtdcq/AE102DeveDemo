@@ -1,0 +1,8 @@
+F:\code\AE102DeveDemo\FeatureAttribute\bin\Debug\FeatureAttribute.dll
+F:\code\AE102DeveDemo\FeatureAttribute\bin\Debug\FeatureAttribute.pdb
+F:\code\AE102DeveDemo\FeatureAttribute\obj\Debug\FeatureAttribute.dll
+F:\code\AE102DeveDemo\FeatureAttribute\obj\Debug\FeatureAttribute.pdb
+F:\code\AE102DeveDemo\FeatureAttribute\obj\Debug\FeatureAttribute.AttributeTable.resources
+F:\code\AE102DeveDemo\FeatureAttribute\obj\Debug\FeatureAttribute.csproj.GenerateResource.Cache
+F:\code\AE102DeveDemo\FeatureAttribute\bin\Debug\ESRI.ArcGIS.ADF.dll
+F:\code\AE102DeveDemo\FeatureAttribute\bin\Debug\ESRI.ArcGIS.ADF.xml

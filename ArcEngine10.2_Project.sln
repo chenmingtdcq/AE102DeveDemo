@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcEngine10.2_Project", "Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineToPolygonByWidthAttribute", "LineToPolygonByWidthAttribute\LineToPolygonByWidthAttribute.csproj", "{281A5F59-A52A-46C5-A6AE-79BE4A584E18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISUtil", "GISUtil\GISUtil.csproj", "{4508CCEE-F005-49EF-B364-5D541DFBD487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureAttribute", "FeatureAttribute\FeatureAttribute.csproj", "{A4E7FB75-D512-4397-A431-E862E3724C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogHelper", "LogHelper\LogHelper.csproj", "{917CAB0B-9A07-4ADA-8437-5988F7062D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +25,18 @@ Global
 		{281A5F59-A52A-46C5-A6AE-79BE4A584E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{281A5F59-A52A-46C5-A6AE-79BE4A584E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{281A5F59-A52A-46C5-A6AE-79BE4A584E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4508CCEE-F005-49EF-B364-5D541DFBD487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4508CCEE-F005-49EF-B364-5D541DFBD487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4508CCEE-F005-49EF-B364-5D541DFBD487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4508CCEE-F005-49EF-B364-5D541DFBD487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E7FB75-D512-4397-A431-E862E3724C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E7FB75-D512-4397-A431-E862E3724C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E7FB75-D512-4397-A431-E862E3724C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E7FB75-D512-4397-A431-E862E3724C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917CAB0B-9A07-4ADA-8437-5988F7062D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917CAB0B-9A07-4ADA-8437-5988F7062D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917CAB0B-9A07-4ADA-8437-5988F7062D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917CAB0B-9A07-4ADA-8437-5988F7062D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

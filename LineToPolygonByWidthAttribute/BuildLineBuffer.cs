@@ -32,8 +32,6 @@ namespace LineToPolygonByWidthAttribute
         {
             BufferForm frm = new BufferForm(m_HookHelper);
             frm.ShowDialog();
-        }
-
-        
+        }        
     }
 }

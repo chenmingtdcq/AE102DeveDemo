@@ -12,6 +12,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -126,7 +127,7 @@ namespace LineToPolygonByWidthAttribute
             string fieldName = selectItem.ToString();
             ITable pTable = (ITable)pFc;
             currentFieldType = pTable.Fields.Field[pTable.Fields.FindField(fieldName)].Type;
-            ICursor pCursor = pTable.Search(null, false);
+            ICursor pCursor = pTable.Search(null, true);
             IRow pRow = pCursor.NextRow();
             HashSet<string> hsFieldValues = new HashSet<string>();
             while (pRow != null)
@@ -227,6 +228,7 @@ namespace LineToPolygonByWidthAttribute
             ESRI.ArcGIS.AnalysisTools.Erase erase = new ESRI.ArcGIS.AnalysisTools.Erase(shapefileDLTB, bufferSavefile, erasePath);
             try
             {
+                SimplifyDLTB();
                 ESRI.ArcGIS.Geoprocessor.Geoprocessor gp = new ESRI.ArcGIS.Geoprocessor.Geoprocessor();
                 IGeoProcessorResult result = (IGeoProcessorResult)gp.Execute(erase, null);
             }
@@ -234,6 +236,10 @@ namespace LineToPolygonByWidthAttribute
             {
                 LogHelper.LogHelper.WriteLog(typeof(BufferForm), ex.Message + ex.StackTrace);
                 throw new Exception("执行擦除有误！ 具体原因是：" + ex.Message + ex.StackTrace);
+            }
+            finally
+            {
+
             }
             if (pFWks == null)
                 pFWks = GISUtil.GISUtil.CreateFeatureWorkspace(erasePath);
@@ -249,6 +255,30 @@ namespace LineToPolygonByWidthAttribute
         private void btnCancel_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        /// <summary>
+        /// 对地类图斑进行拓扑纠正
+        /// </summary>
+        public void SimplifyDLTB()
+        {
+            IFeatureCursor dltbCursor = pDLTBFeatureLayer.FeatureClass.Search(null, true);
+            IFeature feature = dltbCursor.NextFeature();
+            while (feature != null)
+            {
+                ITopologicalOperator2 pTopo = (ITopologicalOperator2)feature.ShapeCopy;
+                //if (pTopo.IsSimple)
+                //{
+                //    feature = dltbCursor.NextFeature();
+                //    continue;
+                //}
+                pTopo.IsKnownSimple_2 = false;
+                pTopo.Simplify();
+                feature.Shape = pTopo as IGeometry;
+                feature.Store();
+                feature = dltbCursor.NextFeature();
+            }
+            Marshal.ReleaseComObject(dltbCursor);
         }
 
         /// <summary>
@@ -277,7 +307,7 @@ namespace LineToPolygonByWidthAttribute
             }
             pFeatureClass = pFeatureWks.CreateFeatureClass(shapeName, CreateFeatureField(pTable), null, null, esriFeatureType.esriFTSimple, "SHAPE", "");
 
-            IFeatureCursor pFCursor = pFeatureLayer.FeatureClass.Search(null, false);
+            IFeatureCursor pFCursor = pFeatureLayer.FeatureClass.Search(null, true);
             IFeature pF = pFCursor.NextFeature();
 
             /***test***/
@@ -323,6 +353,7 @@ namespace LineToPolygonByWidthAttribute
                 pFeature.Store();
                 pF = pFCursor.NextFeature();
             }
+            Marshal.ReleaseComObject(pFCursor);
         }
 
         private void SetControlDataSource()
@@ -375,7 +406,7 @@ namespace LineToPolygonByWidthAttribute
                 filter.WhereClause = unionType + " = " + unionValue;
             }
             ISpatialFilter spatialFilter = new SpatialFilterClass();
-            IFeatureCursor pFCursor = pFc.Search(filter, false);
+            IFeatureCursor pFCursor = pFc.Search(filter, true);
             IFeature pFeature = pFCursor.NextFeature();
             while (pFeature != null)
             {
@@ -412,6 +443,7 @@ namespace LineToPolygonByWidthAttribute
                 }
                 pFeature = pFCursor.NextFeature();
             }
+            Marshal.ReleaseComObject(pFCursor);
         }
 
         private IGeometryCollection GetIntersectSameTypeFeatures(IFeatureClass pFc, IFeature pFeature, ISpatialFilter spatialFilter, IQueryFilter filter, string unionType, string unionValue, ref ArrayList fIDs)
@@ -435,7 +467,7 @@ namespace LineToPolygonByWidthAttribute
             }
             filter = spatialFilter;
             IGeometryCollection pGeoCollection = new GeometryBagClass() as IGeometryCollection;
-            IFeatureCursor pFeatureCursor = pFc.Search(filter, false);
+            IFeatureCursor pFeatureCursor = pFc.Search(filter, true);
             IFeature pF = pFeatureCursor.NextFeature();
             while (pF != null)
             {
@@ -443,6 +475,7 @@ namespace LineToPolygonByWidthAttribute
                 pGeoCollection.AddGeometry(pF.ShapeCopy, ref missing, ref missing);
                 pF = pFeatureCursor.NextFeature();
             }
+            Marshal.ReleaseComObject(pFeatureCursor);
             return pGeoCollection;
         }
 

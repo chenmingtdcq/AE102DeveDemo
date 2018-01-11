@@ -6,3 +6,4 @@ F:\code\AE102DeveDemo\FeatureAttribute\obj\Debug\FeatureAttribute.AttributeTable
 F:\code\AE102DeveDemo\FeatureAttribute\obj\Debug\FeatureAttribute.csproj.GenerateResource.Cache
 F:\code\AE102DeveDemo\FeatureAttribute\bin\Debug\ESRI.ArcGIS.ADF.dll
 F:\code\AE102DeveDemo\FeatureAttribute\bin\Debug\ESRI.ArcGIS.ADF.xml
+F:\code\AE102DeveDemo\FeatureAttribute\obj\Debug\FeatureAttribute.csprojResolveAssemblyReference.cache

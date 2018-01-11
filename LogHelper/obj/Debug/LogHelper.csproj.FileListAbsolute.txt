@@ -3,3 +3,4 @@ F:\code\AE102DeveDemo\LogHelper\bin\Debug\LogHelper.pdb
 F:\code\AE102DeveDemo\LogHelper\bin\Debug\log4net.dll
 F:\code\AE102DeveDemo\LogHelper\obj\Debug\LogHelper.dll
 F:\code\AE102DeveDemo\LogHelper\obj\Debug\LogHelper.pdb
+F:\code\AE102DeveDemo\LogHelper\obj\Debug\LogHelper.csprojResolveAssemblyReference.cache

@@ -23,3 +23,6 @@ F:\code\AE102DeveDemo\ArcEngine10.2_Project\obj\Debug\ArcEngine10._2_Project.Pro
 F:\code\AE102DeveDemo\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.csproj.GenerateResource.Cache
 F:\code\AE102DeveDemo\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.exe
 F:\code\AE102DeveDemo\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.pdb
+F:\program\practice\AE102DeveDemo\ArcEngine10.2_Project\bin\Debug\ArcEngine10.2_Project.exe.config
+F:\program\practice\AE102DeveDemo\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.exe
+F:\program\practice\AE102DeveDemo\ArcEngine10.2_Project\obj\Debug\ArcEngine10.2_Project.pdb
